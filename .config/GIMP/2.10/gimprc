@@ -41,6 +41,7 @@
     (padding-mode default)
     (padding-color (color-rgb 1 1 1))
     (padding-in-show-all no))
+(edit-non-visible yes)
 (toolbox-wilber no)
 (theme "wal")
 (icon-size small)
